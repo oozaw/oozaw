@@ -1,9 +1,11 @@
-- 👋 Hi, I’m Wahyu, an undergraduate Computer Science student
-- 🦴 22 yo
-- ✈️ IDN
-- 👀 I’m interested in Android (Expert) and Web Dev (Intermediate)
-
-<!---
-oozaw/oozaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💻📱 Passionate web and Android developer
+- 🎓 Solid academic background
+- 🚀 Highly motivated to build impactful software solutions
+- 🤝 Proven ability to work independently and as part of a team
+- 💻 Expertise in:
+  - JavaScript with Node.js, Vue.js, Express.js, Nest.js, and PHP with Laravel, Livewire for web development
+  - Kotlin for mobile Android application development
+- 📚 Always eager to learn new things and technologies
+- 💪 Confident in my ability to adapt quickly to new technology
+- 💬 Possess excellent communication and interpersonal skills
+- ✨ Committed to contributing effectively within dynamic teams and delivering high-quality results
